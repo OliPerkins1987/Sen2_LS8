@@ -1,6 +1,8 @@
 # Sen2_LS8
 Code to batch-process Sentinel-2 &amp; Landsat 8 scenes to create a composite timeseries
 
+Code should be run in integer order (IE Sentinel 1-3 before Landsat 4, co-register images).
+
 This code assumes two key things:
 
 1) file structure of scenes. 
